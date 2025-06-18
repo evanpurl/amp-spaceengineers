@@ -13,10 +13,5 @@
         "ConfigFile": "Torch.cfg",
         "AutoMap": true,
         "ConfigType": "xml"
-    },
-    {
-        "ConfigFile": "servers/ModList.cfg",
-        "AutoMap": true,
-        "ConfigType": "xml"
     }
 ]
