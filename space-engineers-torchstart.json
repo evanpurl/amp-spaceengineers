@@ -9,15 +9,5 @@
         "UpdateSourceConditionSetting": "TorchConfig_LocalPlugins",
         "UpdateSourceConditionValue": "false",
         "OverwriteExistingFiles": true
-    },
-    {
-        "UpdateStageName": "Download Plugins",
-        "UpdateSourcePlatform": "Windows",
-        "UpdateSource": "Executable",
-        "UpdateSourceData": "powershell.exe",
-        "UpdateSourceArgs": "-NoProfile -ExecutionPolicy Bypass -File \"downloadplugins.ps1\" \"{{UpdatePlugins}}\" \"5c14d8ea-7032-4db1-a2e6-9134ef6cb8d9 {{plugins}}\"",
-        "UpdateSourceConditionSetting": "TorchConfig_LocalPlugins",
-        "UpdateSourceConditionValue": "false",
-        "SkipOnFailure": true
     }
 ]

@@ -3074,7 +3074,8 @@
     },
     {
         "DisplayName": "Mods List",
-        "Category": "Space Engineers:mod_manager",
+        "Category": "Space Engineers:stadia_controller",
+        "Subcategory": "General:settings:3",
         "Description": "List of mods used in your Space Engineers server.",
         "Keywords": "Mods",
         "FieldName": "Mods",
@@ -3085,5 +3086,5 @@
         "DefaultValue": "",
         "Placeholder": "",
         "EnumValues": {}
-    },
+    }
 ]
