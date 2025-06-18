@@ -3085,7 +3085,7 @@
         "IncludeInCommandLine": false,
         "DefaultValue": "",
         "Placeholder": "",
-        "Special": "listfile:./servers/modlist.txt",
+        "Special": "listfile:./space-engineers-torch/244850/servers/modlist.txt",
         "EnumValues": {}
     }
 ]
