@@ -3081,7 +3081,7 @@
         "FieldName": "Mods",
         "InputType": "list",
         "IsFlagArgument": false,
-        "ParamFieldName": "ModList/Mods",
+        "ParamFieldName": "Mods",
         "IncludeInCommandLine": false,
         "DefaultValue": "",
         "Placeholder": "",
