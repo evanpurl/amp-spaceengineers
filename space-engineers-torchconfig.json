@@ -3071,5 +3071,19 @@
             "True": "true",
             "False": "false"
         }
-    }
+    },
+    {
+        "DisplayName": "Mods List",
+        "Category": "Space Engineers:mod_manager",
+        "Description": "List of mods used in your Space Engineers server.",
+        "Keywords": "Mods",
+        "FieldName": "Mods",
+        "InputType": "list",
+        "IsFlagArgument": false,
+        "ParamFieldName": "mods",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "EnumValues": {}
+    },
 ]
