@@ -1,4 +1,4 @@
-Meta.DisplayName=Space Engineers Torch
+Meta.DisplayName=Space Engineers Torch Test
 Meta.Description=Space Engineers Dedicated Server with Torch API. Compatable with windows server versions ONLY.
 Meta.OS=Windows
 Meta.Arch=x86_64
@@ -25,7 +25,7 @@ Meta.BreakingReleaseNotes=
 Meta.AppConfigId=00442a94-83f5-41b8-b222-321cca830924
 Meta.ImportableExtensions=[]
 Meta.AppIsMultiIPAware=False
-App.DisplayName=Space Engineers Torch
+App.DisplayName=Space Engineers Torch Test
 App.RootDir=./space-engineers-torch/
 App.BaseDirectory=./space-engineers-torch/244850/
 App.SteamWorkshopDownloadLocation=
