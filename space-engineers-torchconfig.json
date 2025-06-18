@@ -3085,6 +3085,7 @@
         "IncludeInCommandLine": false,
         "DefaultValue": "",
         "Placeholder": "",
+        "Special": "listfile:./servers/modlist.txt",
         "EnumValues": {}
     }
 ]
